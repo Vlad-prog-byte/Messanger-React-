@@ -1,0 +1,13 @@
+.content{
+    grid-area: c;
+    background-color: green;
+}
+
+.dialogs{
+    display: grid;
+    grid-template-columns: 2fr 25fr;
+}
+
+.users .active{
+    color: gold;
+}

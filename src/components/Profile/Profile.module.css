@@ -2,15 +2,3 @@
     grid-area: c;
     background-color: green;
 }
-
-.item {
-    padding-left: 40px;
-    padding-top: 7px;
-}
-
-.put {
-    display: inline;
-    height: 4em;
-    width: 20em;
-    padding: 20px 30px 10px 20px;
-}
